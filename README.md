@@ -1,19 +1,19 @@
-# SnakeGameC: 
-Projeto de "jogo da cobrinha" em C . Desenvolvida em grupo na disciplina de Programação Imperativa e Funcional.
+# SnakeGameC
 
-# Como Jogar: 
-Abra um terminal e entre na main do projeto. Apos completar tal passo, digite "make run" no terminal e o jogo começará.
+Projeto de "jogo da cobrinha" em C, desenvolvido em grupo na disciplina de Programação Imperativa e Funcional.
 
-# Manual do Jogo:
-- Insira seu nome para começar o jogo.
+## Como Jogar
 
-- Pressione as seguintes teclas para controlar a direção da cobra:
+1. Abra um terminal e navegue até a pasta principal do projeto.
+2. Digite `make run` no terminal e o jogo começará.
 
-W para subir
-A para ir para a esquerda 
-S para descer 
-D para ir para a direita
+## Manual do Jogo
 
-- A cobra deve se mover para comer as frutas e dessa forma aumentar de tamanho e adquirindo pontos. A cobra não deve colidir com as paredes ou com o seu próprio corpo, isso faz com que o jogo acabe.
-
-
+1. Insira seu nome para começar o jogo.
+2. Use as seguintes teclas para controlar a direção da cobra:
+   - **W**: Subir
+   - **A**: Ir para a esquerda
+   - **S**: Descer
+   - **D**: Ir para a direita
+3. A cobra deve se mover para comer as frutas, aumentando de tamanho e adquirindo pontos.
+4. O jogo termina se a cobra colidir com as paredes ou com seu próprio corpo.
