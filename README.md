@@ -2,6 +2,8 @@
 
 Projeto de "jogo da cobrinha" em C, desenvolvido em grupo na disciplina de Programação Imperativa e Funcional.
 
+Desenvolvido por Mirna Lustosa, Felipe Sergio e Thiago Belo.
+
 ## Como Jogar
 
 1. Abra um terminal e navegue até a pasta principal do projeto.
